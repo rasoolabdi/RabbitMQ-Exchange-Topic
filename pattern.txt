@@ -1,0 +1,4 @@
+*.*.*  => foo.bar.haz
+#.anything => rasool.abdi.anything
+foo.bar.* => foo.bar.rasool.abdi
+foo.bar.#  => foo.bar.rasool.abdi.bar
